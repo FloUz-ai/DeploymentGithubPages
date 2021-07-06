@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TpGithubPages/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/TpGithubPages/static/js/main.fb030135.chunk.js",
+    "main.js.map": "/TpGithubPages/static/js/main.fb030135.chunk.js.map",
+    "runtime-main.js": "/TpGithubPages/static/js/runtime-main.f910dd75.js",
+    "runtime-main.js.map": "/TpGithubPages/static/js/runtime-main.f910dd75.js.map",
+    "static/js/2.43a713d0.chunk.js": "/TpGithubPages/static/js/2.43a713d0.chunk.js",
+    "static/js/2.43a713d0.chunk.js.map": "/TpGithubPages/static/js/2.43a713d0.chunk.js.map",
+    "index.html": "/TpGithubPages/index.html",
+    "precache-manifest.3c6a37a2872bf7d566e204fc74bf2448.js": "/TpGithubPages/precache-manifest.3c6a37a2872bf7d566e204fc74bf2448.js",
+    "service-worker.js": "/TpGithubPages/service-worker.js",
+    "static/css/main.5e4e9510.chunk.css.map": "/TpGithubPages/static/css/main.5e4e9510.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f910dd75.js",
+    "static/js/2.43a713d0.chunk.js",
+    "static/css/main.5e4e9510.chunk.css",
+    "static/js/main.fb030135.chunk.js"
+  ]
+}

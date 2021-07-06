@@ -1,8 +1,10 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "homepage": "https://FloUz-ai.github.io/TpGithubPages/",
   "private": true,
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "react": "16.11.0",
     "react-dom": "16.11.0",
     "react-scripts": "3.2.0",
@@ -10,7 +12,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
